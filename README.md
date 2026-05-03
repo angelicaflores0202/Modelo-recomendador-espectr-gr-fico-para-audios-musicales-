@@ -1,7 +1,7 @@
 # Modelo Recomendador Espectro-Gráfico para Audios Musicales
 
-Realizado por Angelica Margarita Flores Islas
-Asesor: Tomás Pérez Becerra
+**Autor:** Angelica Margarita Flores Islas  
+**Asesor**: Tomás Pérez Becerra
 
 Este repositorio contiene el desarrollo del **Proyecto Terminal** para la **Maestría en Ciencia de Datos (MCD)**. 
 El objetivo principal es construir un sistema de recomendación musical basado en el análisis de características extraídas de espectrogramas de audio.
