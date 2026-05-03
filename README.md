@@ -24,6 +24,10 @@ El repositorio está organizado de la siguiente manera:
 
 ## 🛠️ Requisitos e Instalación
 
+
+Realizado por Angelica Margarita Flores Islas
+Asesor: Tomás Pérez Becerra
+
 Para ejecutar los notebooks de este proyecto, se recomienda crear un entorno virtual e instalar las siguientes dependencias:
 
 ```bash
